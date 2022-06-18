@@ -8,3 +8,5 @@ For example, in the example below, we created a circular progress bar which upda
 After creating circular progress bar, we have to call startAnimation method like the example below for starting animation:
 <code> c1.startAnimation(); </code> </br>
 Also we can change the properties such as color of circular progress bar , percentage change of circular bar ..etc by using defined methods. For more information, please look at Main.java file.
+https://user-images.githubusercontent.com/53142518/174457841-83d73c4e-d45e-454d-b825-016e7f58dff5.mp4
+
